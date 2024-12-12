@@ -48,7 +48,7 @@
     "sass": "^1.52.3",
     "storybook-addon-themes": "^6.1.0",
     "typescript": "^4.5.4",
-    "vite": "^2.9.9"
+    "vite": "^2.9.16"
   },
   "dependencies": {
     "@cldcvr/flow-system-icon": "^1.0.5",

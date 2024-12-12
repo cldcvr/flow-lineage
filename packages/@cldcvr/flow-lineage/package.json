@@ -51,7 +51,7 @@
     "rollup-plugin-scss": "3.0.0",
     "sass": "^1.52.3",
     "typescript": "^4.5.4",
-    "vite": "^2.9.9",
+    "vite": "^2.9.16",
     "vue": "2.6.14",
     "web-component-analyzer": "^2.0.0-next.4"
   },
